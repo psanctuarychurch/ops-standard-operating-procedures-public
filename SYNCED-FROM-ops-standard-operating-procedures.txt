@@ -1,11 +1,13 @@
 # Files written by the allowlist sync from ops-standard-operating-procedures (source of truth: that repository; edit there, not here).
 # Regenerated on every run; the next run removes exactly these files before writing the current set.
 COM/SOP-COM-001-new-to-github-your-first-hour.md
+COM/SOP-COM-002-apple-account-recovery.md
 GOV/SOP-GOV-001-board-reading-room-membership.md
 GOV/SOP-GOV-002-github-collaboration.md
 IT/SOP-IT-001-vpn-dns-resolver-stalls.md
 IT/SOP-IT-002-reading-room-and-helper-access.md
 IT/SOP-IT-003-observer-dashboards-local-by-default.md
+IT/SOP-IT-004-tripwires-firewalls-and-shields.md
 OPS/LEGEND.md
 OPS/SOP-OPS-001-how-a-change-travels.md
 OPS/SOP-OPS-002-pull-requests-and-promotes.md
@@ -91,11 +93,13 @@ assets/icons/users.svg
 assets/icons/workflow.svg
 assets/icons/wrench.svg
 pdf/COM/SOP-COM-001-new-to-github-your-first-hour.pdf
+pdf/COM/SOP-COM-002-apple-account-recovery.pdf
 pdf/GOV/SOP-GOV-001-board-reading-room-membership.pdf
 pdf/GOV/SOP-GOV-002-github-collaboration.pdf
 pdf/IT/SOP-IT-001-vpn-dns-resolver-stalls.pdf
 pdf/IT/SOP-IT-002-reading-room-and-helper-access.pdf
 pdf/IT/SOP-IT-003-observer-dashboards-local-by-default.pdf
+pdf/IT/SOP-IT-004-tripwires-firewalls-and-shields.pdf
 pdf/OPS/SOP-OPS-001-how-a-change-travels.pdf
 pdf/OPS/SOP-OPS-002-pull-requests-and-promotes.pdf
 pdf/OPS/SOP-OPS-003-private-houses-everything-public-lanes-witness.pdf
