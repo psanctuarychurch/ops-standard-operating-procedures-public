@@ -113,3 +113,5 @@ With the organisation's base permission at **No permission** (SOP-GOV-002), this
 | 2026-11-01 | Lucid pass: Lucide icons, the order of hands in Mermaid; base permission none (SOP-GOV-002) makes the board team the true list | Alfred |
 | 2026-10-31 | Filled in for Psanctuary Church: `psanctuarychurch`, a `board` team still to create, `proposals` as the first repository the Board reads; not yet run | Alfred |
 | 2026-11-01 | Psanctuary Church: the lucid pass taken in; the church's base permission is none (set 2026-11-01), so the `board` team, once created, is the true list | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

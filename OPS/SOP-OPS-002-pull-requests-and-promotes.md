@@ -149,3 +149,5 @@ The pull request page shows **Merged** with a merge commit; `git log --merges -1
 | 2026-11-01 | Lucid pass (icons, a `gitGraph` of a merge commit); **Honest history**: the squash audit, what a squash costs and how a later merge restores it, with a generic worked example; the 2026-10-31 "no attribution was lost" corrected (it checked only the latest Promotes); names may be public | Alfred |
 | 2026-11-01 | Psanctuary Church: the template's lucid pass and honest history taken in; the church's own audit (five dependency updates squashed in `changelog-astro`, no attribution lost); badges in the church's blue | Alfred |
 | 2026-11-01 | The church's audit table moved to the members-only `SOP-OPS-002-honest-history.md` (this procedure goes to the public twin); the generic text says "a members-only page"; change-log rows put in date order | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

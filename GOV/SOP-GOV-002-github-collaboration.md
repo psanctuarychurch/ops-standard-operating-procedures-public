@@ -117,3 +117,5 @@ gh api -X PATCH orgs/<org> -f default_repository_permission=none            # th
 |---|---|---|
 | 2026-11-01 | Drafted: the tools one by one, access by teams, base permission none and why (the "You should know" heads-up) | Alfred |
 | 2026-11-01 | Psanctuary Church: where the church stands (base permission none, the `readers` team, one owner); badges in the church's blue | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

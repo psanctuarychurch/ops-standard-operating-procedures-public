@@ -103,3 +103,5 @@ The member opens the page from their own account; the helper's read test passes;
 | 2026-11-01 | Lucid pass: Lucide icons, the route drawn in Mermaid; links to SOP-OPS-003 (the tripwires) and SOP-GOV-002 (teams, base permission none); new readers start at SOP-COM-001 | Alfred |
 | 2026-10-31 | Filled in for Psanctuary Church: the private room, the `readers` team (created), the public room and its Pages address, both allowlists and secrets by name | Alfred |
 | 2026-11-01 | Psanctuary Church: the lucid pass taken in; where the church stands, now that both rooms exist and the base permission is none | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

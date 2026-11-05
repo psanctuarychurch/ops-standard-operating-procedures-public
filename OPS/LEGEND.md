@@ -92,3 +92,5 @@ showing `non_fast_forward` in its rule types will break its own sync. Both are w
 | `reading-room-public` | public | `main` | — | main-branch-protection:active[deletion] | merge | yes | yes |
 | `website-crawls` | private | `main` | — | not on this plan | merge, squash, rebase | — | — |
 | `websites` | private | `main` | — | not on this plan | merge, squash, rebase | — | — |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->
