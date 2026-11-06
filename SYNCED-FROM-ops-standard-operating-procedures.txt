@@ -13,6 +13,7 @@ IT/SOP-IT-006-renaming-a-local-folder.md
 IT/SOP-IT-007-the-machines-three-guards.md
 IT/SOP-IT-008-disk-utility-and-sparse-images.md
 IT/SOP-IT-009-cold-storage-data-and-wallets.md
+IT/SOP-IT-010-how-we-keep-our-data.md
 OPS/LEGEND.md
 OPS/SOP-OPS-001-how-a-change-travels.md
 OPS/SOP-OPS-002-pull-requests-and-promotes.md
@@ -110,6 +111,7 @@ pdf/IT/SOP-IT-006-renaming-a-local-folder.pdf
 pdf/IT/SOP-IT-007-the-machines-three-guards.pdf
 pdf/IT/SOP-IT-008-disk-utility-and-sparse-images.pdf
 pdf/IT/SOP-IT-009-cold-storage-data-and-wallets.pdf
+pdf/IT/SOP-IT-010-how-we-keep-our-data.pdf
 pdf/OPS/SOP-OPS-001-how-a-change-travels.pdf
 pdf/OPS/SOP-OPS-002-pull-requests-and-promotes.pdf
 pdf/OPS/SOP-OPS-003-private-houses-everything-public-lanes-witness.pdf
